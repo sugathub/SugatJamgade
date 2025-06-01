@@ -1,5 +1,5 @@
-# Hii I'm Sugat Jamgade:
-I'm Currently learning React js and node js 
+# Hii 👋 I'm Sugat Jamgade:
+💫 I'm Currently learning React js and node js 
 
 
 ## 🌐 Socials:
@@ -11,10 +11,4 @@ I'm Currently learning React js and node js
 ![](https://github-readme-stats.vercel.app/api?username=sugathub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sugathub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugathub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sugathub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
